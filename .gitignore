@@ -1,0 +1,38 @@
+# General ignore
+
+# Environment variables
+/.env
+
+# Common build directories
+build/
+dist/
+out/
+tmp/
+
+*.gz
+*.bak
+*.log
+*.pem
+*.tar
+*.tmp
+*.tgz
+*.zip
+
+##
+# OS Files
+##
+
+# Mac OS
+.DS_Store
+._*
+.Trashes/
+
+# Linux
+*~
+*.swp
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
